@@ -1,0 +1,16 @@
+#one{
+    text-align: center;
+    color: crimson;
+    font-weight: 200;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.all{
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 50px;
+    margin: 5%;
+    padding: 10%;
+}
+ul li{
+    display: inline;
+}
